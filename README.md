@@ -17,6 +17,7 @@
 ## 2. Project Structure
 
 GROUP24_CENG313/
+```text
 ├── README.md
 ├── assignment1_eda_baseline.ipynb
 ├── assignment2_solution.ipynb
@@ -24,3 +25,4 @@ GROUP24_CENG313/
     ├── data.py
     ├── models.py
     └── utils.py
+```
