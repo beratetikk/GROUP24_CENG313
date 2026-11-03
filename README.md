@@ -15,6 +15,7 @@
   * `sample_submission.csv`: Required submission format evaluated with **MAP@25**.
 
 ## 2. Project Structure
+
 GROUP24_CENG313/
 ├── README.md
 ├── assignment1_eda_baseline.ipynb
