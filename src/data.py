@@ -40,7 +40,7 @@ def convert_wide_to_long(df, is_train=True):
         q_id = row["QuestionId"]
         correct_opt = row["CorrectAnswer"]
         correct_text = str(row[f"Answer{correct_opt}Text"])
-    """ dogru sik denk gelirse atlıyor. """
+        
         for opt in options:
             if opt == correct_opt:
                 continue
