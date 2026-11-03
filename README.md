@@ -2,6 +2,7 @@
 
 ## Team Members
 | Şevket Berat Tetik | 23118080062 | 
+
 | Alperen örene | 23118080006|
 
 ## 1. Competition & Dataset Overview
@@ -14,7 +15,6 @@
   * `sample_submission.csv`: Required submission format evaluated with **MAP@25**.
 
 ## 2. Project Structure
-```text
 GROUP24_CENG313/
 ├── README.md
 ├── assignment1_eda_baseline.ipynb
