@@ -1,4 +1,3 @@
-#temel model ve onerilen model sınıfları
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
