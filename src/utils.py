@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-#garfik için tema ayari
+#grafik için tema ayari
 sns.set_theme(style="whitegrid")
 
 
